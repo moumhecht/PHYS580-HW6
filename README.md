@@ -1,4 +1,4 @@
-# Solving the Poisson Equation  (╯°□°)╯︵ ┻━┻
+# Solving the Poisson Equation 
 
  This program numerically solves the 2-D Poisson equation for an electrostatic potential with a defined source charge density in a metal rectangular box with sides of length Lx and Ly. We impose Neumann boundary conditions, requiring the gradient of the potential be zero at the sides of the rectangular box.
 
