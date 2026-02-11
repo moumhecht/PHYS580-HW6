@@ -4,9 +4,7 @@
 
  The solution to the potential is given by:
 
-$$
-\left(\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} \right) \phi(x,y) = - 4 \pi \rho(x,y)
-$$
+$$(\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2}  \phi(x,y) = - 4 \pi \rho(x,y)$$
 This program uses Boole's quadrature to compute the Fourier coefficients. 
 
 file that is specified by the namelist or default `results.dat`.
